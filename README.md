@@ -1,1 +1,3 @@
 # stintsy-machine-project
+
+Our Advanced Intelligent Systems project focuse on classifying pumpkin seed types using machine learning techniques, leveraging a dataset that captures physical and morphological features. The dataset includes two pumpkin seed varieties—Urgup Sivrisi and Cercevelik—which are distinguished by unique characteristics. These varieties, native to Turkey, play a vital role in human health due to their nutrient-rich composition. By analyzing features extracted from images of seeds, this project aims to develop an accurate classification model, showcasing the intersection of agricultural science and data-driven approaches.
